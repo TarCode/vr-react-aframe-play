@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "aframe": "^0.6.1",
+    "aframe-environment-component": "^1.0.0",
     "aframe-particle-system-component": "^1.0.10",
     "aframe-react": "^4.3.0",
     "babel-polyfill": "^6.26.0",
