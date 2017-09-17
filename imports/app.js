@@ -20,7 +20,6 @@ export default class App extends React.Component {
                  }
 
                  handleClick() {
-                   console.log("FUCKOFF");
                     if (this.state.selected < scenes.length -1) {
                       this.state.selected = this.state.selected + 1
                     } else {
